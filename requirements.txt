@@ -1,0 +1,2 @@
+tqdm==4.58.0
+gitignore-parser==0.0.8
